@@ -1,0 +1,19 @@
+{
+  "name": "crear-pdf",
+  "version": "1.0.0",
+  "description": "Crear PDF desde Node JS",
+  "main": "pdf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "PDF",
+    "HTML"
+  ],
+  "author": "Sergio Gonzalez",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "html-pdf": "^2.2.0"
+  }
+}
